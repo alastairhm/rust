@@ -1,0 +1,1 @@
+Felt the need to learn something new, so these are my experiments with Rust.
