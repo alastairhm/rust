@@ -2,6 +2,13 @@
 
 Felt the need to learn something new, so these are my experiments with Rust.
 
+## Rust in a Container
+
+```bash
+docker build -t myrust .
+docker run -it --rm -v "$PWD:/mnt" myrust
+```
+
 ## Resources
 
 * Following course https://www.udemy.com/course/learning-rust/
