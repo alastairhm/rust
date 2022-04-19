@@ -15,6 +15,7 @@ docker run -it --rm -v "$PWD:/mnt" myrust
 * [Learn Rust Programming Course – Interactive Rust Language Tutorial on Replit](https://www.freecodecamp.org/news/rust-in-replit)
 * [Crates.io](https://crates.io)
 * [12 Things to Help you Learn Rust](https://youtu.be/a8abW3RlOn8)
+* [Learning Rust Video examples](https://github.com/PacktPublishing/Learning-Rust-video)
 
 
 
