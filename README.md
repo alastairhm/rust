@@ -19,3 +19,7 @@ docker run -it --rm -v "$PWD:/mnt" myrust
 
 
 
+
+## On the blog
+
+* https://blog.0x32.co.uk/posts/rust001/
